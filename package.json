@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-check-class-name",
+  "version": "1.0.0",
+  "description": "检查class name",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyblueWZZQ/eslint-plugin-check-class-name.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "plugin",
+    "class",
+    "className"
+  ],
+  "author": "KyrieVing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkyblueWZZQ/eslint-plugin-check-class-name/issues"
+  },
+  "homepage": "https://github.com/SkyblueWZZQ/eslint-plugin-check-class-name#readme"
+}
