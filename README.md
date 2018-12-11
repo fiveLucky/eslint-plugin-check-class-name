@@ -9,7 +9,7 @@
     "eslint-plugin-check-class-name"
   ],
   "rules": {
-    "check-pview-class-name/check": [
+    "check-class-name/check": [
       "warn",
       {
         "target": "$folder", 
