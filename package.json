@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-check-class-name",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "检查class name",
   "main": "lib/index.js",
   "directories": {
